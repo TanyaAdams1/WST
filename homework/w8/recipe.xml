@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="recipe.php"?>
+<cookbook>
+    <recipe>
+        <name>Rhubarb and Custard</name>
+        <ingredient>
+            <name>Milk</name>
+            <amount>15</amount>
+            <unit>ml</unit>
+        </ingredient>
+        <ingredient>
+            <name>Rhubarb</name>
+            <amount>700</amount>
+            <unit>g</unit>
+        </ingredient>
+        <ingredient>
+            <name>Custard Powder</name>
+            <amount>8</amount>
+            <unit>tbs</unit>
+        </ingredient>
+        <steps>
+            <step>
+                <description>
+                    Mix together and put in oven proof dish
+                </description>
+            </step>
+            <step>
+                <description>Heat in a moderate oven for 40 mins</description>
+            </step>
+        </steps>
+        <notice-number>0</notice-number>
+    </recipe>
+    <recipe>
+        <name>Golden Potato Soup</name>
+        <ingredient>
+            <name>peeled and cubed potatoes</name>
+            <amount>3</amount>
+            <unit>cup</unit>
+        </ingredient>
+        <ingredient>
+            <name>chopped celery</name>
+            <amount>0.5</amount>
+            <unit>cup</unit>
+        </ingredient>
+        <ingredient>
+            <name>chopped onion</name>
+            <amount>0.5</amount>
+            <unit>cup</unit>
+        </ingredient>
+        <ingredient>
+            <name>cube chicken bouillon</name>
+            <amount>1</amount>
+            <unit></unit>
+        </ingredient>
+        <ingredient>
+            <name>water</name>
+            <amount>1</amount>
+            <unit>cup</unit>
+        </ingredient>
+        <ingredient>
+            <name>dried parsley</name>
+            <amount>1</amount>
+            <unit>teaspoon</unit>
+        </ingredient>
+        <ingredient>
+            <name>salt</name>
+            <amount>0.5</amount>
+            <unit>teaspoon</unit>
+        </ingredient>
+        <ingredient>
+            <name>pinch ground black pepper</name>
+            <amount>1</amount>
+            <unit></unit>
+        </ingredient>
+        <ingredient>
+            <name>all-purpose flour</name>
+            <amount>2</amount>
+            <unit>teaspoon</unit>
+        </ingredient>
+        <ingredient>
+            <name>milk</name>
+            <amount>1.5</amount>
+            <unit>cup</unit>
+        </ingredient>
+        <ingredient>
+            <name>shredded American cheese</name>
+            <amount>1.5</amount>
+            <unit>cup</unit>
+        </ingredient>
+        <ingredient>
+            <name>chopped ham</name>
+            <amount>1</amount>
+            <unit>cup</unit>
+        </ingredient>
+        <steps>
+            <step>
+                <description>
+                    In a large stock pot add potatoes, celery, onion, chicken bouillon, water and parsley flakes. Season with salt and pepper and simmer until vegetables become tender.
+                </description>
+            </step>
+            <step>
+                <description>
+
+                    In a separate bowl mix flour and milk. Once it is well blended, add to soup mixture and cook until soup becomes thick.
+                </description>
+            </step>
+            <step>
+                <description>
+                    Stir in cheese, cooked ham or hamburger and simmer until cheese is melted.
+                </description>
+            </step>
+        </steps>
+        <notice-number>1</notice-number>
+        <notice>
+            <content>
+                The whole process takes about 1h15min. Take your time.
+            </content>
+        </notice>
+    </recipe>
+</cookbook>
+

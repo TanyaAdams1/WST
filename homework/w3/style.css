@@ -1,0 +1,19 @@
+.header , .footer{
+    text-align: center;
+    height: 20%;
+    width: 100%!important;
+    border-style: ridge;
+}
+.frame{
+    width: calc(100vw*0.8);
+    height: 80%;
+}
+@media (max-width:600px) {
+      .column{
+        width: 100%;
+      }
+}
+.content{
+  border-style: double;
+  border-color: #000!important;
+}

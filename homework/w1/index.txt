@@ -1,0 +1,2 @@
+Homework of week 1
+1. I think "Chrome plug-in" belongs to "productivity and quality-oriented technologies". The plug-ins are designed to add utility and convenience to the browser. The basic idea is to let developers add some minor scripts and utilities to the browser, like auto-paging, capturing the whole web page or 
