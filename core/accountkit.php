@@ -5,9 +5,9 @@
  * Date: 17-11-26
  * Time: 下午2:36
  */
-$app_id="162540087672331";
-$secret="d038e839e0c1a03a918be5c541ebd21d";
-$version="v1.0";
+$app_id="";
+$secret="";
+$version="";
 $access_token="AA|".$app_id."|".$secret;
 
 // Initialize variables
