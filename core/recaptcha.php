@@ -9,7 +9,7 @@ include_once "util.php";
 function validate_token($token)
 {
     $data = array(
-        "secret" => "6Ld1HDYUAAAAAOa0najPy0lVtfXcHeHFXzXza5MI",
+        "secret" => "",
         "response" => $token
     );
     $option = array(
