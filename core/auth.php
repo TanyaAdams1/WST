@@ -6,10 +6,10 @@
  * Time: 下午3:26
  */
 if (!isset($sql)) {
-    $sql = new mysqli("127.0.0.1",
-        "usr_2017_47",
-        "Tanya19980929",
-        "db_2017_47");
+    $sql = new mysqli("",
+        "",
+        "",
+        "");
 }
 if(!$sql||$sql->errno){
     dieout(500);
